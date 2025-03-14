@@ -1,0 +1,66 @@
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\appsettings.json
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\Base.Exchange.OrderGenerator.App.staticwebassets.runtime.json
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\Base.Exchange.OrderGenerator.App.exe
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\Base.Exchange.OrderGenerator.App.deps.json
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\Base.Exchange.OrderGenerator.App.runtimeconfig.json
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\Base.Exchange.OrderGenerator.App.dll
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\Base.Exchange.OrderGenerator.App.pdb
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\QuickFix.dll
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\QuickFix.FIX44.dll
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.csproj.AssemblyReference.cache
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.AssemblyInfoInputs.cache
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.AssemblyInfo.cs
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets\msbuild.Base.Exchange.OrderGenerator.App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets\msbuild.build.Base.Exchange.OrderGenerator.App.props
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Base.Exchange.OrderGenerator.App.props
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Base.Exchange.OrderGenerator.App.props
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\scopedcss\bundle\Base.Exchange.OrderGenerator.App.styles.css
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\scopedcss\projectbundle\Base.Exchange.OrderGenerator.App.bundle.scp.css
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exc.6801038D.Up2Date
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.dll
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\refint\Base.Exchange.OrderGenerator.App.dll
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.pdb
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.genruntimeconfig.cache
+C:\Users\Arthur Melo\Desktop\Base\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\ref\Base.Exchange.OrderGenerator.App.dll
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\appsettings.json
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\Base.Exchange.OrderGenerator.App.staticwebassets.runtime.json
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\Base.Exchange.OrderGenerator.App.exe
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\Base.Exchange.OrderGenerator.App.deps.json
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\Base.Exchange.OrderGenerator.App.runtimeconfig.json
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\Base.Exchange.OrderGenerator.App.dll
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\Base.Exchange.OrderGenerator.App.pdb
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\QuickFix.dll
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\bin\Debug\net8.0\QuickFix.FIX44.dll
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.csproj.AssemblyReference.cache
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.AssemblyInfoInputs.cache
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.AssemblyInfo.cs
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets\msbuild.Base.Exchange.OrderGenerator.App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets\msbuild.build.Base.Exchange.OrderGenerator.App.props
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Base.Exchange.OrderGenerator.App.props
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Base.Exchange.OrderGenerator.App.props
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\scopedcss\bundle\Base.Exchange.OrderGenerator.App.styles.css
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\scopedcss\projectbundle\Base.Exchange.OrderGenerator.App.bundle.scp.css
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exc.6801038D.Up2Date
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.dll
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\refint\Base.Exchange.OrderGenerator.App.dll
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.pdb
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\Base.Exchange.OrderGenerator.App.genruntimeconfig.cache
+C:\Users\Arthur Melo\Desktop\BASE FINAL WORKED\Base.Exchange.OrderGenerator.App\Base.Exchange.OrderGenerator.App\obj\Debug\net8.0\ref\Base.Exchange.OrderGenerator.App.dll

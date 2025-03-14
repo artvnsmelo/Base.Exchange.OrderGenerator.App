@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Arthur Melo\\Desktop\\BASE FINAL WORKED\\Base.Exchange.OrderGenerator.App\\Base.Exchange.OrderGenerator.App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Base.Exchange.OrderGenerator.App.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Base.Exchange.OrderGenerator.App.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Arthur Melo\\Desktop\\BASE FINAL WORKED\\Base.Exchange.OrderGenerator.App\\Base.Exchange.OrderGenerator.App\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Arthur Melo\\Desktop\\BASE FINAL WORKED\\Base.Exchange.OrderGenerator.App\\Base.Exchange.OrderGenerator.App\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arthur Melo\\Desktop\\BASE FINAL WORKED\\Base.Exchange.OrderGenerator.App\\Base.Exchange.OrderGenerator.App\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arthur Melo\\Desktop\\BASE FINAL WORKED\\Base.Exchange.OrderGenerator.App\\Base.Exchange.OrderGenerator.App\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Base.Exchange.OrderGenerator.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Base.Exchange.OrderGenerator.App.props",
+      "PackagePath": "build\\Base.Exchange.OrderGenerator.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Base.Exchange.OrderGenerator.App.props",
+      "PackagePath": "buildMultiTargeting\\Base.Exchange.OrderGenerator.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Base.Exchange.OrderGenerator.App.props",
+      "PackagePath": "buildTransitive\\Base.Exchange.OrderGenerator.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

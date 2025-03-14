@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Base.Exchange.OrderGenerator.App.props" />
+</Project>

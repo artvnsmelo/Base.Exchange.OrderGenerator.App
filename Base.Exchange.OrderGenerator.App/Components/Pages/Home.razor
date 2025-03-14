@@ -1,0 +1,116 @@
+﻿@page "/"
+@rendermode InteractiveServer
+@inject Services.FixInitiator fixInitiator
+
+@using System.ComponentModel.DataAnnotations
+@using QuickFix
+
+<h3>New Order Single</h3>
+
+<EditForm Model="@formModel" OnValidSubmit="HandleValidSubmit" FormName="newOrderForm">
+    <DataAnnotationsValidator />
+
+    <div class="form-group">
+        <label>Selecione um símbolo:</label>
+        <InputSelect @bind-Value="formModel.Symbol" class="form-control">
+            <option value="" disabled selected>Selecione</option>
+            <option value="PETR4">PETR4</option>
+            <option value="VALE3">VALE3</option>
+            <option value="VIIA4">VIIA4</option>
+        </InputSelect>
+    </div>
+
+    <div class="form-group">
+        <label>Selecione a modalidade:</label>
+        <InputSelect @bind-Value="formModel.Side" class="form-control">
+            <option value="" disabled selected>Selecione</option>
+            <option value="BUY">Compra</option>
+            <option value="SELL">Venda</option>
+        </InputSelect>
+    </div>
+
+    <div class="form-group">
+        <label>Quantidade:</label>
+        <InputNumber @bind-Value="formModel.Quantity" class="form-control" />
+        <ValidationMessage For="() => formModel.Quantity" class="text-danger" />
+    </div>
+
+    <div class="form-group">
+        <label>Preço:</label>
+        <InputNumber @bind-Value="formModel.Price" class="form-control" Min="0.01" Max="999.99" Step="0.01" />
+        <ValidationMessage For="() => formModel.Price" class="text-danger" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</EditForm>
+
+@if (!string.IsNullOrEmpty(message))
+{
+    <p class="mt-3">@message</p>
+}
+
+@code {
+    private FormModel formModel = new FormModel();
+    private string? message;
+    private SessionID? sessionId;
+
+    protected override async Task OnInitializedAsync()
+    {
+        fixInitiator.StartSession();
+        await Task.Delay(3000);
+    }
+
+    private void HandleValidSubmit()
+    {        
+        message = $"Ordem enviada: Símbolo: {formModel.Symbol}, Modalidade: {formModel.Side}, Quantidade: {formModel.Quantity}, Preço: {formModel.Price}";
+        fixInitiator.SendNewOrder(formModel.Symbol, formModel.Side, formModel.Quantity, formModel.Price);
+    }
+
+    public class FormModel
+    {
+        [Required(ErrorMessage = "O símbolo é obrigatório")]
+        public string? Symbol { get; set; }
+
+        [Required(ErrorMessage = "A modalidade é obrigatória")]
+        public string? Side { get; set; }
+
+        [Range(1, 100000, ErrorMessage = "A quantidade deve ser um valor positivo menor que 100k")]
+        public int Quantity { get; set; }
+
+        [Range(0.01, 999.99, ErrorMessage = "O preço deve ser um valor positivo, múltiplo de 0.01 e menor que 1k")]
+        public decimal Price { get; set; }
+    }
+}
+
+<style>
+    .form-group {
+        margin-bottom: 1rem;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 0.375rem 0.75rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        color: #495057;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        border-radius: 0.25rem;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+        padding: 0.5rem 1rem;
+        font-size: 1rem;
+    }
+
+    .text-danger {
+        color: #dc3545;
+    }
+
+    .mt-3 {
+        margin-top: 1rem;
+    }
+</style>
