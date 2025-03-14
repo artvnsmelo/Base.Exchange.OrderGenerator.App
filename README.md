@@ -12,7 +12,6 @@ A aplicação **Base.Exchange.OrderGenerator.App** foi desenvolvida em Blazor co
 - .NET 6.0 ou superior
 - Blazor Server
 - Biblioteca QuickFIX/N
-- SignalR para comunicação em tempo real
 
 ## Campos do Formulário
 O formulário de criação de ordens contém os seguintes campos:
